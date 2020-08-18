@@ -27,5 +27,8 @@ Details screen for the review or salary
 
 | Screen 1      | Screen 2      | Screen 3   |
 |------------|-------------|-------------|
-| <img src="https://i.postimg.cc/nLZf7258/Main-Activity-Review.png" width="250"> | <img src="https://i.postimg.cc/d1VMN1w4/Detail-Activity-Review.png" width="250"> |<img src="https://i.postimg.cc/0QWTTsNx/Detail-Activity-Interview.png" width="250"> |
-| <img src="https://i.postimg.cc/nLZf7258/Main-Activity-Review.png" width="250"> | <img src="https://i.postimg.cc/d1VMN1w4/Detail-Activity-Review.png" width="250"> |<img src="https://i.postimg.cc/0QWTTsNx/Detail-Activity-Interview.png" width="250"> |
+| <img src="https://i.postimg.cc/nLZf7258/Main-Activity-Review.png" width="250"> | <img src="https://i.postimg.cc/0NfRCmRz/Main-Activity-Interview.png" width="250"> |<img src="https://i.postimg.cc/9QyjrKLt/Main-Activity-Salary.png" width="250"> |
+
+| Screen 4      | Screen 5      | Screen 6  |
+|------------|-------------|-------------|
+| <img src="https://i.postimg.cc/d1VMN1w4/Detail-Activity-Review.png" width="250"> | <img src="https://i.postimg.cc/0QWTTsNx/Detail-Activity-Interview.png" width="250"> |<img src="https://i.postimg.cc/02Ts5P0y/Detail-Activity-Salary.png" width="250"> |
