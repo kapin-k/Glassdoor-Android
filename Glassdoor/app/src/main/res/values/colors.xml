@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0BAA40</color>
+    <color name="colorPrimaryDark">#09722C</color>
+    <color name="colorAccent">#0CAA41</color>
+    <color name="colorWhite">#F7F7F7</color>
+    <color name="colorBlue">#1861BF</color>
+    <color name="colorBlack">#404040</color>
+    <color name="positiveReviewColor">#0BAA40</color>
+    <color name="negativeReviewColor">#EB4033</color>
+    <color name="neutralReviewColor">#F6B500</color>
+    <color name="tabHighlightColor">#1AA4E0</color>
+    <color name="colorGray">#919191</color>
+</resources>
