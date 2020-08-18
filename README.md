@@ -23,7 +23,7 @@ Tasks:
 * Pass bundle data from the previous screen.
 * Populate this UI in any way you see fit.
 
-Result: 
+<h4>Result: </h4>
 
 | Screen 1      | Screen 2      | Screen 3   |
 |------------|-------------|-------------|
